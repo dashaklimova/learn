@@ -1,2 +1,3 @@
 quack
 master quack
+double-master quack
